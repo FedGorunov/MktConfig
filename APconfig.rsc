@@ -1,7 +1,6 @@
 # mar/05/2021 22:20:02 by RouterOS 6.47.9
-# software id = 8QBA-XZZ7
-#
 # model = RouterBOARD 941-2nD
+#
 /interface bridge
 add name=Bridge-generalS
 /interface wireless security-profiles
